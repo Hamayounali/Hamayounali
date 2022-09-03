@@ -7,7 +7,7 @@ I have worked as a full-stack website developer and IT Manager in UNDP, AIC, and
 - website: [@Justice for equality](https://www.jeao.org)
 - website: [@UN/ASDSN](https://asdsn.org)
 
-## Contacts
+## Contacts:
 * Email : hamayounemail@gmail.com
 * WhatsApp : +93744 81 85 97
 * Full Stack Developer 
@@ -19,7 +19,7 @@ I have worked as a full-stack website developer and IT Manager in UNDP, AIC, and
 
 ♟ Chess is my favorite game.
 
-🌐 Socials:
+## 🌐 Socials:
 - Facebook: [@Hamayounali](https://www.facebook.com/humayoonali)
 - Twitter: [@hamayounAli6](https://twitter.com/hamayounAli6)
 - LinkedIn: [Humayoon Ali](https://www.linkedin.com/in/humayoon-ali-663ba2239)
