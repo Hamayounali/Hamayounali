@@ -2,6 +2,7 @@
 💫 About Me:
 
 I have studied BSCS at Katib University, BBA at the University of North-West U.S.A., and Full-stack web development at Microverse. Microverse is an international school of remote software development that uses pair programming and project building methods. 
+Nearly 10 years of experience in software development and my keen interest, made me a
 
 * Email : hamayounemail@gmail.com
 * WhatsApp : +93744 81 85 97
