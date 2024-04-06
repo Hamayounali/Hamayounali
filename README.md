@@ -8,18 +8,12 @@ I have worked as a full-stack website developer and IT Manager in UNDP, AIC, and
 - website: [@UN/ASDSN](https://asdsn.org)
 
 ## Contacts:
-* Email : hamayounemail@gmail.com
-* WhatsApp : +93744 81 85 97
+* Email: hamayounemail@gmail.com
+* Phone: +1 320 282 0231
 * Full Stack Developer 
 * Available for hire
 
-✨ I am Currently learning at Microverse.
-
-:violin: I like to play Violin.
-
-♟ Chess is my favorite game.
-
 ## 🌐 Socials:
-- Facebook: [@Hamayounali](https://www.facebook.com/humayoonali)
+- Facebook: [@Hamayounali](https://www.facebook.com/profile.php?id=100091805303419)
 - Twitter: [@hamayounAli6](https://twitter.com/hamayounAli6)
-- LinkedIn: [Humayoon Ali](https://www.linkedin.com/in/humayoon-ali-663ba2239)
+- LinkedIn: [Humayoon Ali](https://www.linkedin.com/in/hamayoun-ali-babur/)
