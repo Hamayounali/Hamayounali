@@ -4,8 +4,8 @@ I have worked as a full-stack website developer and IT Manager in UNDP, AIC, and
 
 ## Accomplished Projects:
 - Website: [@Poshak Istanbul](https://www.pim.af)
-- website: [@Justice for equality](https://www.jeao.org)
-- website: [@HQP](https://highqualitypainting.co/)
+- Website: [@Justice for equality](https://www.jeao.org)
+- Website: [@HQP](https://highqualitypainting.co/)
 
 ## Contacts:
 * Email: hamayounemail@gmail.com
